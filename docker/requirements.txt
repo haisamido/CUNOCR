@@ -1,0 +1,5 @@
+#omniglot==1.0.0
+scipy
+sklearn
+tensorflow
+tqdm
